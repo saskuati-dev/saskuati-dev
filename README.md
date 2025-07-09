@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Programo há cerca de 3 anos<br>📚 Atualmente estudando MySQL<br>🎯 Metas: desenvolver um projeto notável.<br>🍓 Fun fact: desenvolvi um controle para Celeste utilizando captura de movimento.</p>
+<p align="left">💻 Programo há cerca de 3 anos<br>📚 Atualmente estudando MySQL<br>🎯 Metas: desenvolver um projeto notável.<br>
 
 ###
 
