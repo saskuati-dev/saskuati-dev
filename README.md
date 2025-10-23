@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Programo há cerca de 3 anos<br>📚 Atualmente estudando MySQL<br>🎯 Metas: desenvolver um projeto notável.<br>
+<p align="left">💻 Programo há cerca de 3 anos<br>📚 Atualmente estudando MySQL<br><br>
 
 ###
 
