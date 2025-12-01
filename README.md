@@ -1,99 +1,84 @@
-<h1 align="center">Olá! 🤠👍 Bem-vindo ao meu GitHub</h1>
+<h1 align="center">Backend Engineer | Node.js • Python • Rust</h1>
+
+<p align="center">
+  Construo APIs escaláveis, sistemas backend com foco em arquitetura limpa, automação e integração entre serviços.
+</p>
+
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/saskuati-dev?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/saskuati-dev?label=Stars&style=social" />
 </div>
 
-###
+---
 
-<p align="center">
-  Me chamo <b>João Carneiro</b>, moro no Paraná 🇧🇷 e atuo com desenvolvimento backend, APIs, automações e web scraping.<br>
-  Gosto de construir soluções eficientes, escaláveis e bem estruturadas.
-</p>
+## 💡 Sobre mim
+
+🎓 Estudante de Engenharia de Computação  
+💻 Desenvolvimento backend, REST APIs, automações e arquitetura de sistemas  
+🛠 Experiência com NestJS, Python, PostgreSQL, Docker e Linux  
+🚀 Focado em escalabilidade, Clean Architecture e boas práticas  
+📍 Paraná, Brasil  
 
 ---
 
-<h2 align="left">💡 Sobre mim</h2>
+## 🛠 Tecnologias
 
-<p align="left">
-📌 Desenvolvimento backend, REST APIs e arquitetura de sistemas<br>
-📚 Estudando Docker, CI/CD, microsserviços e arquitetura modular<br>
-⚙️ Interesse em web scraping, automatização e DevOps<br>
-🎯 Buscando criar soluções simples, claras e escaláveis
-</p>
-
----
-
-<h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
-
-### 🔹 Backend  
-<div align="left">
-
+### 🔹 Backend & Frameworks  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-</div>
-
-### 🔹 Banco de Dados  
-<div align="left">
-
+### 🔹 Bancos de Dados  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</div>
-
 ### 🔹 Infra / DevOps  
-<div align="left">
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 ### 🔹 Linguagens  
-<div align="left">
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-</div>
+---
+
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **Sistema de Palpites (API)** | Backend completo com autenticação, CRUD, ranking e validação | NestJS, TypeScript, PostgreSQL, Docker |
+| **Web Scraping Automático** | Coleta e análise de dados com automação integrada | Python, Selenium, Flask |
+| **CLI Organizer** | Ferramenta de terminal para organização e automação de tarefas locais | Python, SQLite |
+| **Painel Desktop Financeiro** | Aplicação desktop para controle financeiro | Python, Tkinter |
+
+> 🔗 Veja mais em: **https://github.com/saskuati-dev**
 
 ---
 
-<h2 align="left">📈 Atualmente aprendendo</h2>
+## 📘 Atualmente estudando
 
-<p align="left">
-- Docker & Docker Compose<br>  
-- NestJS e arquitetura modular<br>  
-- Rust para sistemas de alto desempenho 🦀<br>  
-- Testes unitários e Integração Contínua (CI/CD)<br>  
-</p>
+- Arquitetura limpa, SOLID e DDD  
+- Microsserviços com NestJS  
+- Testes (Jest, Pytest) e CI/CD  
+- Rust para sistemas de alto desempenho  
 
 ---
 
-<h2 align="left">📊 Estatísticas</h2>
+## 📈 Estatísticas
 
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saskuati-dev&radius=16&theme=synthwave-84&area=true" height="180" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saskuati-dev&radius=16&theme=github-dark&area=true" height="180" />
 </div>
-
 
 ---
 
-<h2 align="center">📬 Vamos conversar?</h2>
-
-<p align="center">
-Aberto para conexões, projetos, colaboração ou troca de ideias.
-</p>
+## 📬 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/saskuati/" target="_blank">
@@ -104,4 +89,6 @@ Aberto para conexões, projetos, colaboração ou troca de ideias.
   </a>
 </div>
 
-<h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
+---
+
+<h3 align="center"> Obrigado por visitar meu perfil!</h3>
