@@ -17,10 +17,10 @@
 <h2 align="left"> Sobre</h2>
 
 <p align="left">
-- Desenvolvimento backend, REST APIs e arquitetura de sistemas<br>
-- Estudando Docker, CI/CD, microsserviços e arquitetura modular<br>
-- Interesse em web scraping, automatização e DevOps<br>
-- Buscando criar soluções simples, claras e escaláveis
+• Desenvolvimento backend, REST APIs e arquitetura de sistemas<br>
+• Estudando Docker, CI/CD, microsserviços e arquitetura modular<br>
+• Interesse em web scraping, automatização e DevOps<br>
+• Buscando criar soluções simples, claras e escaláveis
 </p>
 
 ---
@@ -71,10 +71,10 @@
 <h2 align="left">📈 Atualmente aprendendo</h2>
 
 <p align="left">
-- Docker & Docker Compose<br>  
-- NestJS e arquitetura modular<br>  
-- Rust para sistemas de alto desempenho 🦀<br>  
-- Testes unitários e Integração Contínua (CI/CD)<br>  
+• Docker & Docker Compose<br>  
+• NestJS e arquitetura modular<br>  
+• Rust para sistemas de alto desempenho 🦀<br>  
+• Testes unitários e Integração Contínua (CI/CD)<br>  
 </p>
 
 ---
