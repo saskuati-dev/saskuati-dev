@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/github/stars/saskuati-dev?label=Stars&style=social" />
 </div>
 
-###
 
 <p align="center">
   Me chamo <b>João Carneiro</b>, moro no Paraná e atuo com desenvolvimento backend, APIs, automações e web scraping.<br>
@@ -17,10 +16,10 @@
 <h2 align="left"> Sobre</h2>
 
 <p align="left">
-• Desenvolvimento backend, REST APIs e arquitetura de sistemas<br>
-• Estudando Docker, CI/CD, microsserviços e arquitetura modular<br>
-• Interesse em web scraping, automatização e DevOps<br>
-• Buscando criar soluções simples, claras e escaláveis
+- Desenvolvimento backend, REST APIs e arquitetura de sistemas<br>
+- Estudando Docker, CI/CD, microsserviços e arquitetura modular<br>
+- Interesse em web scraping, automatização e DevOps<br>
+- Buscando criar soluções simples, claras e escaláveis
 </p>
 
 ---
@@ -71,10 +70,10 @@
 <h2 align="left">📈 Atualmente aprendendo</h2>
 
 <p align="left">
-• Docker & Docker Compose<br>  
-• NestJS e arquitetura modular<br>  
-• Rust para sistemas de alto desempenho 🦀<br>  
-• Testes unitários e Integração Contínua (CI/CD)<br>  
+- Docker & Docker Compose<br>  
+- NestJS e arquitetura modular<br>  
+- Rust para sistemas de alto desempenho 🦀<br>  
+- Testes unitários e Integração Contínua (CI/CD)<br>  
 </p>
 
 ---
@@ -102,6 +101,11 @@ Aberto para conexões, projetos, colaboração ou troca de ideias.
   <a href="mailto:jvferreiracarneiro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-saskuati__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://x.com/saskuati_dev" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
 </div>
 
 <h3 align="center"> Obrigado por visitar meu perfil! </h3>
