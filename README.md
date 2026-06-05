@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 🤠👍 Bem-vindo ao meu GitHub</h1>
+<h1 align="center">Olá!</h1>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/saskuati-dev?label=Followers&style=social" />
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
+<h2 align="left"> Tecnologias e Ferramentas</h2>
 
 ### 🔹 Backend  
 <div align="left">
@@ -37,7 +37,7 @@
 
 </div>
 
-### 🔹 Banco de Dados  
+###  Banco de Dados  
 <div align="left">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,7 +46,7 @@
 
 </div>
 
-### 🔹 Infra / DevOps  
+###  Infra / DevOps  
 <div align="left">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,7 +55,7 @@
 
 </div>
 
-### 🔹 Linguagens  
+###  Linguagens  
 <div align="left">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -67,18 +67,18 @@
 
 ---
 
-<h2 align="left">📈 Atualmente aprendendo</h2>
+<h2 align="left"> Atualmente aprendendo</h2>
 
 <p align="left">
 - Docker & Docker Compose<br>  
 - NestJS e arquitetura modular<br>  
-- Rust para sistemas de alto desempenho 🦀<br>  
+- Rust <br>  
 - Testes unitários e Integração Contínua (CI/CD)<br>  
 </p>
 
 ---
 
-<h2 align="left">📊 Estatísticas</h2>
+<h2 align="left"> Estatísticas</h2>
 
 <div align="center">
   
@@ -88,7 +88,7 @@
 
 ---
 
-<h2 align="center">📬 Vamos conversar?</h2>
+<h2 align="center"> Vamos conversar?</h2>
 
 <p align="center">
 Aberto para conexões, projetos, colaboração ou troca de ideias.
