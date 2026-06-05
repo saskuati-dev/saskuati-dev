@@ -26,7 +26,7 @@
 
 <h2 align="left"> Tecnologias e Ferramentas</h2>
 
-### 🔹 Backend  
+### Backend  
 <div align="left">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
