@@ -1,111 +1,50 @@
-<h1 align="center">Olá!</h1>
+# João Carneiro
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/saskuati-dev?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/saskuati-dev?label=Stars&style=social" />
-</div>
+Desenvolvo APIs, automações, scrapers e agentes de IA em Python e TypeScript.
 
+Gosto de tirar dados de lugares difíceis e colocar LLMs em sistemas reais, com
+as regras críticas no código e não no prompt.
 
-<p align="center">
-  Me chamo <b>João Carneiro</b>, moro no Paraná e atuo com desenvolvimento backend, APIs, automações e web scraping.<br>
-  Gosto de construir soluções eficientes, escaláveis e bem estruturadas.
-</p>
+## Projetos
 
----
+### [atendente-ai](https://github.com/saskuati-dev/atendente-ai)
 
-<h2 align="left"> Sobre</h2>
+Agente de atendimento para uma loja de música. Responde sobre catálogo, pedidos
+e políticas, e roda com Anthropic, Gemini, OpenAI ou DeepSeek usando a chave de
+quem chama.
 
-<p align="left">
-- Desenvolvimento backend, REST APIs e arquitetura de sistemas<br>
-- Estudando Docker, CI/CD, microsserviços e arquitetura modular<br>
-- Interesse em web scraping, automatização e DevOps<br>
-- Buscando criar soluções simples, claras e escaláveis
-</p>
+- Consultas via tools tipadas com SQL parametrizado e conexão somente leitura; o modelo não escreve SQL.
+- Regras de negócio (preço promocional, desconto PIX, parcelas, verificação de identidade) no código.
+- Loop e adapters próprios, sem framework de agentes.
+- Histórico no servidor para o cliente não conseguir forjar resultados de tools.
 
----
+`Python` · `FastAPI` · `SQLite` · `pytest`
 
-<h2 align="left"> Tecnologias e Ferramentas</h2>
+### [Scraping-Nest](https://github.com/saskuati-dev/Scraping-Nest)
 
-### Backend  
-<div align="left">
+Coleta vagas do RemoteOK e do We Work Remotely e expõe numa API autenticada com
+interface web para consulta.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- Scraping com Playwright, execuções agendadas pelo n8n.
+- Autenticação JWT e controle de acesso por perfil (user e admin).
+- Listagem paginada e filtros sobre os dados coletados.
+- Ambiente completo em Docker Compose.
 
-</div>
+`NestJS` · `Playwright` · `PostgreSQL` · `Next.js` · `n8n` · `Docker`
 
-###  Banco de Dados  
-<div align="left">
+### [bolao-copa-2026](https://github.com/saskuati-dev/bolao-copa-2026)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+Bolão da Copa do Mundo com palpites até 20 minutos antes de cada jogo, ranking
+e atualização em tempo real.
 
-</div>
+- Jogos sincronizados a cada 6 horas via GitHub Action (football-data.org).
+- Pontuação: 5 pontos pelo placar exato, 3 pelo resultado certo.
+- Atualização ao vivo com Supabase Realtime.
 
-###  Infra / DevOps  
-<div align="left">
+`Next.js` · `Supabase` · `TypeScript` · `GitHub Actions` · `Vercel`
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Commits no último ano](https://github-readme-activity-graph.vercel.app/graph?username=saskuati-dev&theme=github-compact&hide_border=true&height=220)
 
-</div>
+## Contato
 
-###  Linguagens  
-<div align="left">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-</div>
-
----
-
-<h2 align="left"> Atualmente aprendendo</h2>
-
-<p align="left">
-- Docker & Docker Compose<br>  
-- NestJS e arquitetura modular<br>  
-- Rust <br>  
-- Testes unitários e Integração Contínua (CI/CD)<br>  
-</p>
-
----
-
-<h2 align="left"> Estatísticas</h2>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saskuati-dev&radius=16&theme=synthwave-84&area=true" height="180" alt="activity graph" />
-</div>
-
-
----
-
-<h2 align="center"> Vamos conversar?</h2>
-
-<p align="center">
-Aberto para conexões, projetos, colaboração ou troca de ideias.
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/saskuati/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jvferreiracarneiro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-saskuati__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <a href="https://x.com/saskuati_dev" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</div>
-
-<h3 align="center"> Obrigado por visitar meu perfil! </h3>
+[LinkedIn](https://www.linkedin.com/in/saskuati/) · [E-mail](mailto:jvferreiracarneiro@gmail.com)
