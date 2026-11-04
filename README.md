@@ -43,8 +43,6 @@ e atualização em tempo real.
 
 `Next.js` · `Supabase` · `TypeScript` · `GitHub Actions` · `Vercel`
 
-![Commits no último ano](https://github-readme-activity-graph.vercel.app/graph?username=saskuati-dev&theme=github-compact&hide_border=true&height=220)
-
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/saskuati/) · [E-mail](mailto:jvferreiracarneiro@gmail.com)
